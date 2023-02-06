@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitAPITraining_Ribbon2</Name>
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_Ribbon2.dll"</Assembly>
+		<AddInId>139027DD-4F72-452A-984D-5940BDA928AF</AddInId>
+		<FullClassName>RevitAPITraining_Ribbon2.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+	</AddIn>
+</RevitAddIns>
